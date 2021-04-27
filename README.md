@@ -23,7 +23,7 @@ Below are the steps for Flashing:
 - **Build** &#8594; Debug Compiler &#8594; Flash Settings
 - On CCS UniFlash
 - **File** &#8594; New Configuration
-- Connectin will be Texas Instruments XDS110 USB Debug Probe and Board or Device will RM46L852
+- Connection will be Texas Instruments XDS110 USB Debug Probe and Board or Device will RM46L852
 - Flash Settings will be similar. Leave the defaults as it is. Check on Verify.
 - In Erase Options, check Entire Flash.
 - CCS UniFlash requires an additional step of providing the .out file. This is located based on the build version i.e. Debug or Release.
